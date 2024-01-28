@@ -7,4 +7,6 @@ Datenschutzgesetze und -vorschriften dienen dazu, den Umgang mit persönlichen D
 
 Man kann auch Massnahmen ergreifen, um unsere eigenen Daten zu schützen. Zum Beispiel kann man die Datenschutzrichtlinien von Websites und Apps lesen und verstehen, Privatsphäre-Einstellungen in sozialen Medien festlegen und sichere Passwörtern für Online-Konten verwenden.
 ### Datensicherheit
-Datensicherheit hingegen bezieht sich auf den Schutz dieser Daten vor unbefugtem Zugriff, Diebstahl oder Beschädigung. Dies umfasst Maßnahmen wie starke Passwörter, Verschlüsselungstechnologien, Firewalls und regelmäßige Sicherheitsupdates, um sicherzustellen, dass die Daten vor Hackern und anderen Bedrohungen geschützt sind.
+Datensicherheit bezieht sich auf den Schutz der Daten vor ungewollten Zugriff, Diebstahl oder Beschädigung. Massnahmen wie starke Passwörter, Verschlüsselungstechnologien, Firewalls und regelmässige Sicherheitsupdates stellen sicher, dass die Daten vor Hackern und anderen Bedrohungen geschützt sind.
+
+Die Vertraulichkeit von Daten bezieht sich darauf, sicherzustellen, dass sensible Informationen nur von autorisierten Personen oder Systemen eingesehen werden können. Dies wird oft durch die Implementierung von Zugriffskontrollen und Verschlüsselungstechnologien erreicht, die verhindern, dass Unbefugte auf sensible Daten zugreifen können.
