@@ -1,7 +1,3 @@
-1140
-
-Cookies wurden 1994 zum ersten mal in Einsatz gekommen, um Speicherplatz der Servern zu sparen. Heutzutage werden Cookies oft von Webseiten verwendet, um Anmeldeinformationen zu speichern, das Benutzerverhalten zu verfolgen oder personalisierte Inhalte zu erstellen. Man Unterscheidet zwei Arten von Cookies. First Party Cookies und Third Party Cookies. First Party Cookies werden von der Webseite gespeichert, um beispielsweise dem besucher eine Nutzer-ID zuweisen zu können. Third Party Cookies können problematisch werden. Sie erlauben nicht nur einer Webseite, dich zu tracken sondern mit ihnen kannst du Plattformübergreifend verfolgt werden. Ein Beispiel: Viele Onlinezeitungen, wie zum Beispiel Bild.de, stellen eine Verbindung zu verschiedene Webseiten, die man in der Vergangenheit besucht hat, her. Beispielsweise Amazon. Das ist auch der Grund, weshalb man oft Werbung von Produkten sieht, nach welche man in der Vergangenheit gesucht hat.
-
 Anzeigen, Bearbeiten und Löschen von Cookies:
 Verwenden Sie den Bereich Cookies des Anwendungstools , um die HTTP-Cookies für eine Webseite anzuzeigen, zu bearbeiten und zu löschen.
 
